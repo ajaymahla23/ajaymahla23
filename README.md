@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**ajaymahla23/ajaymahla23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ajay Mahla 👋
 
-Here are some ideas to get you started:
+### Java Backend Developer | Spring Boot | Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Java Developer passionate about building
+backend applications and REST APIs.
+
+## 🛠️ Technical Skills
+
+- **Language:** Java, SQL
+- **Backend:** Spring Boot, Spring Security
+- **API:** REST APIs
+- **Database:** MySQL, Postges, Redis
+- **Architecture:** Microservices
+- **Tools:** Git, GitHub, AWS, Kafka
+
+## 🚀 My Projects
+
+- **E-Commerce Application** — Java and backend development
+- **Hotel Booking System** — Hotel booking application
+- **Microservices Project** — User, Hotel and Rating services
+- **Ebook Management** — Ebook management application
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ajaymahla23
+- LinkedIn: https://www.linkedin.com/in/ajay-kumar-675b721b6/
+
+---
+Always learning and improving my coding skills.
