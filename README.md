@@ -6,14 +6,33 @@
 I am a Java Developer passionate about building
 backend applications and REST APIs.
 
+
 ## 🛠️ Technical Skills
 
-- **Language:** Java, SQL
-- **Backend:** Spring Boot, Spring Security
-- **API:** REST APIs
-- **Database:** MySQL, Postges, Redis
-- **Architecture:** Microservices
-- **Tools:** Git, GitHub, AWS, Kafka
+### 💻 Programming Languages
+- Java, SQL, JavaScript
+
+### ⚙️ Backend Development
+- Spring Boot, Spring Security
+- Hibernate, JPA
+- REST APIs, JSON
+- Thymeleaf
+
+### 🗄️ Databases
+- MySQL, PostgreSQL, Redis
+
+### 🏗️ Architecture
+- Microservices, Monolithic Architecture
+
+### 🧰 Tools & Build Technologies
+- Git, GitHub, Maven, Gradle
+- Postman, Swagger, JIRA
+
+### ☁️ Cloud & DevOps
+- AWS, Docker, Ubuntu
+
+### 🌐 Frontend Development
+- HTML5, CSS3, Bootstrap
 
 ## 🚀 My Projects
 
