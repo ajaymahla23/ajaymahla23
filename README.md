@@ -6,9 +6,7 @@
 I am a Java Developer passionate about building
 backend applications and REST APIs.
 
-
 ## 🛠️ Technical Skills
-
 ### 💻 Programming Languages
 - Java, SQL, JavaScript
 
@@ -35,14 +33,14 @@ backend applications and REST APIs.
 - HTML5, CSS3, Bootstrap
 
 ## 🚀 My Projects
-
 - **E-Commerce Application** — Java and backend development
 - **Hotel Booking System** — Hotel booking application
 - **Microservices Project** — User, Hotel and Rating services
 - **Ebook Management** — Ebook management application
-
+- **Job Portal System** — Job portal application
+- **Employee Management System** — Employee management application
+   
 ## 📫 Connect With Me
-
 - GitHub: https://github.com/ajaymahla23
 - LinkedIn: https://www.linkedin.com/in/ajay-kumar-675b721b6/
 
